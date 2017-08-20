@@ -1,6 +1,6 @@
-# bui
+# Flutter Chat App
 
-A new Flutter project.
+This is a flutter chat app with firebase.
 
 ## Getting Started
 
